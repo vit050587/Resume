@@ -584,8 +584,8 @@ a {
   margin: 0 15px;
 }
 #page-footer .social-links svg {
-  height: 50px;
-  width: 50px;
+  height: 180px;
+  width: 250px;
 }
 #page-footer .social-links svg * {
   fill: #dbdbdb;
