@@ -588,9 +588,6 @@ a {
   width: 250px;
 }
 #page-footer .social-links svg * {
-  fill: #dbdbdb;
-  -webkit-transition: all 0.4s ease;
-  -moz-transition: all 0.4s ease;
   transition: all 0.4s ease;
 }
 #page-footer .social-links #icon-twitter:hover * {
